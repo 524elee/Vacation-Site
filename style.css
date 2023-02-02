@@ -1,0 +1,66 @@
+.topnav {
+  overflow: hidden;
+  background-color: #051721;
+}
+
+.topnav a {
+  float: left;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #2AB7E3;
+}
+
+.topnav a.active{
+  background-color: #45EBEA;
+  color: #f8bd25;
+}
+.navbar {
+  padding: 0px;
+  color: #ffe29c;
+}
+hr.ok{
+  border-top: 20px solid white;
+  opacity: 100%;
+}
+.tab{
+  background-color: #ffe29c;
+}
+.body {
+  background-image: url("Homepage_Hero_042019v1.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat:none;
+}
+.hi{
+  font-family: "Brush Script MT", "Lucida Handwriting", cursive;
+  font-size:115px;
+  color:#FFFFFF;
+  padding: 130px 0px;
+}
+.img{
+  height:150px;
+  width: 150px;
+  border-radius:25px;
+  margin: 10px;
+}
+.feat{
+  border-width:5px;
+  border:solid;
+  border-color:#79D319;
+  background-color:#007f59;
+  margin:5px;
+  border-radius:25px;
+  color: #ffe29c;
+}
+Color Reference
+Lime=#79D319
+Green=#007F59
+Deep Blue=#2E89D0
+Mid Blue=#2AB7E3
+Lite Blue=#45EBEA
+Sand=#ffe29c
